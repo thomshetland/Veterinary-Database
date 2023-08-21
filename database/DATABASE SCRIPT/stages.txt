@@ -1,0 +1,39 @@
+ # Stage 0
+        
+self.create_database()
+self.create_table_postcode()
+self.create_table_treatments()
+
+# stage 1
+self.create_table_clinic()
+
+        x# Stage 2
+        self.create_table_pens()
+        self.create_table_staff()
+        self.create_table_supplies()
+        self.create_table_pharmaSupplies()
+        self.create_table_treatmentRequirements()
+
+        self.create_table_petOwners()
+
+        # Stage 3
+        self.create_table_pets()
+
+        # Stage 4
+        self.create_table_petStay()
+        self.create_table_examinations()
+        self.create_table_appointments()
+        self.create_table_invoices()
+
+        # Stage 5
+        self.create_table_invoicesPaid()
+        self.create_table_petTreatm
+
+
+Mullti variables
+Connection relationship
+Generalization specilation
+constraints
+Normalization
+DRive it
+jupyter

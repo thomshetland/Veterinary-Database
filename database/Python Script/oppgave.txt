@@ -1,0 +1,73 @@
+a. Present a report #list# the Manager’s name, clinic address, and
+telephone number for each clinic, #ordered# by clinic number.
+
+
+b. Present a report listing the names and owner numbers of pet owners
+with the details of their pets.
+
+
+c. List the historic details of examinations for a given pet.
+
+
+d. List the details of the treatments provided to a pet based on the results
+of a given examination.
+
+
+e. List the details of an unpaid invoice for a given pet owner.
+
+
+f. Present a report on invoices that have not been paid by a given date,
+ordered by invoice number.
+
+
+g. List the details of pens available on a given date for clinics in the New
+York area, ordered by clinic number.
+
+
+h. Present a report that provides the total monthly salary for staff at each
+clinic, ordered by clinic number.
+
+
+a. List the maximum, minimum and average cost for treatments.
+j. List the total number of pets in each pet type, ordered by pet type.
+
+
+k. Present a report of the names and staff numbers for all vets and nurses
+over 50 years old, ordered by staff name.
+
+
+ax. List the appointments for a given date and for a particular clinic.
+all. List the total number of pens in each clinic, ordered by clinic number.
+
+
+n. Present a report of the details of invoices for pet owners between 1997
+to 1999, ordered by invoice number.
+
+
+o. List the pet number, name, and description of pets owned by a
+particular owner.
+
+
+p. Present a report listing the pharmaceutical supplies that need to be
+reordered at each clinic, ordered by clinic number.
+
+
+q. List the total cost of the non-surgical and surgical supplies currently in
+stock at each clinic, ordered by clinic number.
+
+
+Things we have to think about:
+- How do we update our inventory?
+    - Some supplies are consumed as units
+    - While others are consumed as fractal units
+
+  Remember quantity is how much we buy
+  while units are represent the amount in which they are consumed
+
+  Answer:
+  Introduce quantity and units available,
+    where supplies are consumed as units their quantity = units available
+    where supplies are consumed as fractal units we divided the quantity by the fractal to obtain the units available
+
+- Maybe we drop the supplyTypes Table
+- Should we include a payment type table

@@ -1,0 +1,24 @@
+,supply,supplyType,administration,treatments
+0,Vaccines,Pharmaceutical,Administered by a veterinarian,Vaccinations
+1,Surgical Instruments,Surgical,Used by a veterinarian during surgical procedures,Various surgical treatments
+2,Suture Materials,Surgical,Used by a veterinarian during suturing,Various surgical treatments
+3,Surgical Gloves,Surgical,Worn by veterinarians during surgeries,Various surgical treatments
+4,Thermometer,Non-Surgical,Used to measure temperature,Various treatments requiring temperature monitoring
+5,Stethoscope,Non-Surgical,Used for auscultation,Various treatments requiring examination of heart and lungs
+6,Otoscope,Non-Surgical,Used for ear examination,Various treatments requiring examination of the ear
+7,Ophthalmoscope,Non-Surgical,Used for eye examination,Various treatments requiring examination of the eye
+8,Syringes,Non-Surgical,Administered by a veterinarian,Various treatments requiring medication administration
+9,Dental Instruments,Surgical,Used by a veterinarian during dental procedures,"Dental cleanings, tooth extractions, oral surgeries"
+10,Dental Care Products,Non-Surgical,Used for oral hygiene,"Dental cleanings, oral care"
+11,Anesthetic Drugs,Pharmaceutical,Administered by a veterinarian,"Surgeries, dental procedures, sedation for various treatments"
+12,Antibiotics,Pharmaceutical,Administered by a veterinarian,"Infections, post-surgical care"
+13,Pain Medications,Pharmaceutical,Administered by a veterinarian,"Post-surgical care, pain management"
+14,Cast Materials,Surgical,Applied by a veterinarian during casting,Fracture repairs
+15,X-ray Machine,Non-Surgical,Used for diagnostic imaging,Various treatments requiring X-rays
+16,Rehabilitation Equipment,Non-Surgical,Used for physical therapy and rehabilitation,"Post-surgical recovery, mobility improvement"
+17,Chemotherapeutic Drugs,Pharmaceutical,Administered by a veterinarian,Cancer treatments
+18,Contrast Agents,Pharmaceutical,Administered by a veterinarian,Diagnostic imaging procedures requiring contrast
+19,Intravenous Fluids,Pharmaceutical,Administered by a veterinarian,"Dehydration, fluid therapy"
+20,Pet Bedding,Non-Surgical,Used for comfort and rest,"Overnight hospital stays, recovery areas"
+21,Litter Box,Non-Surgical,Used for cat waste management,Various treatments for cats
+22,Prescription Medications,Pharmaceutical,Administered as directed by a veterinarian,Specific treatments as prescribed by a veterinarian
